@@ -3,11 +3,12 @@ Exploring, learning Edge Detection methods, in Computer Vision, for image proces
 
 Using the terminal, from the build folder, run ./PCLVisualizer -x
 where -x is any one of:
-            -h           this help
-            -s           Simple visualisation example
-            -r           RGB colour visualisation example
-            -c           Custom colour visualisation example
-            -n           Normals visualisation example
-            -a           Shapes visualisation example
-            -v           Viewports example
-            -i           Interaction Customization example
+            -h           this help,
+            -s           Simple visualisation example,
+            -r           RGB colour visualisation example,
+            -c           Custom colour visualisation example,
+            -n           Normals visualisation example,
+            -a           Shapes visualisation example,
+            -v           Viewports example,
+            -i           Interaction Customization example.
+e.g ./PCLVisualizer -r         
