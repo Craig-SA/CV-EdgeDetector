@@ -1,5 +1,7 @@
 # PCLVisualizer
-Exploring, learning Edge Detection methods, in Computer Vision, for image processing of building scenes. (PCL 1.11.1 , CMake 3.20.3 , GNU Make 4.3 , Ubuntu 21.04) 
+Exploring, learning Edge Detection methods, in Computer Vision, for image processing of building scenes. (PCL 1.11.1 , CMake 3.20.3 , GNU Make 4.3 , Ubuntu 21.04)
+
+Includes Build and Make files.
 
 Using the terminal, from the build folder, run ./PCLVisualizer -x
 where -x is any one of:
